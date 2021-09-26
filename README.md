@@ -4,4 +4,4 @@ A simple calander app/webpage to schedule your workday or your daily lifestyle. 
 
 https://rteekasingh.github.io/WorkerDayScheduler/
 
-https://user-images.githubusercontent.com/85544710/134812806-a2f66f28-fbc5-4b8c-9086-f1ce7d3c95fa.mov
+https://user-images.githubusercontent.com/85544710/134813084-f9d1aeb4-0f49-4ea7-97a6-21e2b62cde1f.mov
